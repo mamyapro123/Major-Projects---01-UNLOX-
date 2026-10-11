@@ -1,4 +1,4 @@
-# Major-Projects---01-UNLOX-
+# Major-Projects---01-UNLOX
 # Major-Projects---02-Data-Driven-Social-Engagement-Initiative 📊🚀
 
 ### 🎓 Unlox Academy | Data Analytics & Machine Learning Project
